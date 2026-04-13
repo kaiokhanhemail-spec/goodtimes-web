@@ -31,7 +31,7 @@ const App: React.FC = () => {
           {/* Primary CTA Button - SUPER ENHANCED */}
           <div className="z-20 mb-16 relative animate-reveal" style={{ animationDelay: '300ms' }}>
             <a 
-              href="https://t.me/goodtimescloudbot" 
+              href="https://t.me/goodtimecloudbot" 
               target="_blank" 
               rel="noopener noreferrer"
               className="group relative inline-flex"
